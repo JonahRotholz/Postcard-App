@@ -8,6 +8,8 @@
 
 import UIKit
 
+//its alright, its ok, we gon have a quiz today
+
 class ViewController: UIViewController {
     
     
